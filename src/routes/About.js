@@ -4,6 +4,8 @@ import Footer from "../components/Footer";
 import aboutImg from "../assets/About.jpg";
 import owner from "../assets/about.png";
 import "./styleBack.css";
+
+
 function About() {
   return (
     <>
